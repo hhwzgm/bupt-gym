@@ -8,8 +8,8 @@ TIME--预约时段
 '''
 TIME = '3'             
 
-HOUR = 10
-MIN = 16
+HOUR = 22
+MIN = 0
 
 login_headers = {
     'Connection': 'keep-alive',
